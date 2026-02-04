@@ -1,0 +1,239 @@
+{
+  "metadata": {
+    "version": "1.0.0",
+    "last_updated": "2026-02-03",
+    "total_tools": 200,
+    "total_categories": 22,
+    "curated_by": "@eilon.grouper & Manus AI"
+  },
+  "categories": [
+    {
+      "id": "writing-content-creation",
+      "name": "Writing & Content Creation",
+      "description": "AI-powered writing assistants and content generators",
+      "icon": "✍️",
+      "tool_count": 9
+    },
+    {
+      "id": "ai-chatbots-assistants",
+      "name": "AI Chatbots & Assistants",
+      "description": "Conversational AI and virtual assistants",
+      "icon": "💭",
+      "tool_count": 9
+    },
+    {
+      "id": "productivity-workflow",
+      "name": "Productivity & Workflow",
+      "description": "AI tools for task management and automation",
+      "icon": "🔧",
+      "tool_count": 10
+    },
+    {
+      "id": "agentic-ai-automation",
+      "name": "Agentic AI & Automation Platforms",
+      "description": "Autonomous agent frameworks and builders",
+      "icon": "🤖",
+      "tool_count": 10
+    },
+    {
+      "id": "cybersecurity-ai",
+      "name": "Cybersecurity for AI & Agentic Systems",
+      "description": "Security and governance for AI systems",
+      "icon": "🛡️",
+      "tool_count": 11
+    },
+    {
+      "id": "agentic-ai-development",
+      "name": "Agentic AI Development & Frameworks",
+      "description": "Building blocks for AI agents",
+      "icon": "🏗️",
+      "tool_count": 6
+    },
+    {
+      "id": "agentic-ai-observability",
+      "name": "Agentic AI Observability & Monitoring",
+      "description": "Tracking and debugging agent behavior",
+      "icon": "📈",
+      "tool_count": 6
+    },
+    {
+      "id": "agentic-ai-deployment",
+      "name": "Agentic AI Deployment & Orchestration",
+      "description": "Managing multi-agent workflows",
+      "icon": "⚙️",
+      "tool_count": 6
+    },
+    {
+      "id": "agentic-ai-marketing",
+      "name": "Agentic AI Marketing & Go-to-Market",
+      "description": "AI-powered growth and GTM tools",
+      "icon": "📢",
+      "tool_count": 6
+    },
+    {
+      "id": "competitive-intelligence",
+      "name": "Competitive Intelligence & Reverse Engineering",
+      "description": "AI for market analysis and competitor tracking",
+      "icon": "🕵️",
+      "tool_count": 6
+    }
+  ],
+  "tools": [
+    {
+      "id": "chatgpt",
+      "name": "ChatGPT",
+      "url": "https://chat.openai.com",
+      "description": "GPT-4o with advanced writing capabilities, real-time web access",
+      "category": "Writing & Content Creation",
+      "subcategory": null,
+      "hebrew_support": true,
+      "price": "Free/$20/mo",
+      "rating": 5,
+      "tags": ["writing", "chatbot", "multimodal"],
+      "last_updated": "2026-02-03"
+    },
+    {
+      "id": "claude",
+      "name": "Claude",
+      "url": "https://claude.ai",
+      "description": "Claude 3.5 Sonnet - exceptional long-form content, 200K context window",
+      "category": "Writing & Content Creation",
+      "subcategory": null,
+      "hebrew_support": true,
+      "price": "Free/$20/mo",
+      "rating": 5,
+      "tags": ["writing", "chatbot", "long-form"],
+      "last_updated": "2026-02-03"
+    },
+    {
+      "id": "langchain",
+      "name": "LangChain",
+      "url": "https://langchain.com",
+      "description": "The leading open-source framework for building LLM-powered applications and agents",
+      "category": "Agentic AI Development & Frameworks",
+      "subcategory": "Development Frameworks",
+      "hebrew_support": false,
+      "price": "Open source",
+      "rating": 5,
+      "tags": ["framework", "open-source", "agents", "development"],
+      "last_updated": "2026-02-03"
+    },
+    {
+      "id": "crewai",
+      "name": "CrewAI",
+      "url": "https://crewai.com",
+      "description": "A framework for orchestrating role-playing, autonomous AI agents to work together",
+      "category": "Agentic AI Development & Frameworks",
+      "subcategory": "Development Frameworks",
+      "hebrew_support": false,
+      "price": "Open source",
+      "rating": 5,
+      "tags": ["framework", "open-source", "multi-agent", "orchestration"],
+      "last_updated": "2026-02-03"
+    },
+    {
+      "id": "vellum",
+      "name": "Vellum",
+      "url": "https://www.vellum.ai/",
+      "description": "Automate ops work by describing tasks in natural language; a powerful no-code agent builder",
+      "category": "Agentic AI Development & Frameworks",
+      "subcategory": "No-Code Builders",
+      "hebrew_support": false,
+      "price": "Custom",
+      "rating": 5,
+      "tags": ["no-code", "agent-builder", "automation"],
+      "last_updated": "2026-02-03"
+    },
+    {
+      "id": "langfuse",
+      "name": "Langfuse",
+      "url": "https://langfuse.com/",
+      "description": "Open-source LLM engineering platform for tracing, evals, and prompt management",
+      "category": "Agentic AI Observability & Monitoring",
+      "subcategory": "Observability",
+      "hebrew_support": false,
+      "price": "Free/Cloud",
+      "rating": 5,
+      "tags": ["observability", "open-source", "tracing", "monitoring"],
+      "last_updated": "2026-02-03"
+    },
+    {
+      "id": "braintrust",
+      "name": "Braintrust",
+      "url": "https://www.braintrust.dev/",
+      "description": "AI agent observability and evaluation platform for building reliable AI products",
+      "category": "Agentic AI Observability & Monitoring",
+      "subcategory": "Evaluation",
+      "hebrew_support": false,
+      "price": "Free trial",
+      "rating": 4,
+      "tags": ["observability", "evaluation", "testing"],
+      "last_updated": "2026-02-03"
+    },
+    {
+      "id": "clay",
+      "name": "Clay",
+      "url": "https://www.clay.com/",
+      "description": "A data enrichment and automation platform for building personalized GTM campaigns",
+      "category": "Agentic AI Marketing & Go-to-Market",
+      "subcategory": "GTM Automation",
+      "hebrew_support": false,
+      "price": "$249/mo",
+      "rating": 5,
+      "tags": ["gtm", "data-enrichment", "automation", "marketing"],
+      "last_updated": "2026-02-03"
+    },
+    {
+      "id": "hockeystack",
+      "name": "HockeyStack",
+      "url": "https://hockeystack.com/",
+      "description": "An AI-powered GTM analytics platform that unifies marketing, sales, and product data",
+      "category": "Agentic AI Marketing & Go-to-Market",
+      "subcategory": "Analytics",
+      "hebrew_support": false,
+      "price": "Custom",
+      "rating": 4,
+      "tags": ["gtm", "analytics", "marketing", "sales"],
+      "last_updated": "2026-02-03"
+    },
+    {
+      "id": "similarweb",
+      "name": "SimilarWeb",
+      "url": "https://www.similarweb.com/",
+      "description": "A market intelligence platform that provides insights into website traffic and performance",
+      "category": "Competitive Intelligence & Reverse Engineering",
+      "subcategory": "Market Intelligence",
+      "hebrew_support": true,
+      "price": "Custom",
+      "rating": 5,
+      "tags": ["competitive-intelligence", "market-research", "analytics"],
+      "last_updated": "2026-02-03"
+    },
+    {
+      "id": "semrush",
+      "name": "SEMrush",
+      "url": "https://www.semrush.com/",
+      "description": "A comprehensive SEO and competitive analysis toolkit with AI-powered features",
+      "category": "Competitive Intelligence & Reverse Engineering",
+      "subcategory": "SEO & Analysis",
+      "hebrew_support": true,
+      "price": "$130/mo",
+      "rating": 5,
+      "tags": ["seo", "competitive-intelligence", "marketing"],
+      "last_updated": "2026-02-03"
+    },
+    {
+      "id": "crayon",
+      "name": "Crayon",
+      "url": "https://www.crayon.co/",
+      "description": "An automated competitive intelligence platform that tracks competitor movements",
+      "category": "Competitive Intelligence & Reverse Engineering",
+      "subcategory": "Competitor Tracking",
+      "hebrew_support": false,
+      "price": "Custom",
+      "rating": 4,
+      "tags": ["competitive-intelligence", "automation", "tracking"],
+      "last_updated": "2026-02-03"
+    }
+  ]
+}

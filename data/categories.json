@@ -1,0 +1,158 @@
+{
+  "categories": [
+    {
+      "id": "writing-content-creation",
+      "name": "Writing & Content Creation",
+      "description": "AI-powered writing assistants, content generators, and grammar tools for creating high-quality written content across various formats including blogs, marketing copy, and creative writing.",
+      "icon": "✍️",
+      "tags": ["writing", "content", "copywriting", "grammar"]
+    },
+    {
+      "id": "ai-chatbots-assistants",
+      "name": "AI Chatbots & Assistants",
+      "description": "Conversational AI platforms and virtual assistants powered by large language models for general-purpose tasks, research, and interactive conversations.",
+      "icon": "💭",
+      "tags": ["chatbot", "assistant", "conversation", "llm"]
+    },
+    {
+      "id": "productivity-workflow",
+      "name": "Productivity & Workflow",
+      "description": "AI tools for task management, calendar optimization, note-taking, and workflow automation to enhance personal and team productivity.",
+      "icon": "🔧",
+      "tags": ["productivity", "workflow", "automation", "calendar"]
+    },
+    {
+      "id": "agentic-ai-automation",
+      "name": "Agentic AI & Automation Platforms",
+      "description": "Platforms and frameworks for building autonomous AI agents that can execute complex multi-step workflows and make decisions independently.",
+      "icon": "🤖",
+      "tags": ["agents", "automation", "autonomous", "workflow"]
+    },
+    {
+      "id": "cybersecurity-ai",
+      "name": "Cybersecurity for AI & Agentic Systems",
+      "description": "Security platforms and tools specifically designed to protect AI systems from threats like prompt injection, jailbreaking, and adversarial attacks.",
+      "icon": "🛡️",
+      "tags": ["security", "cybersecurity", "protection", "governance"]
+    },
+    {
+      "id": "startup-valuation-financial",
+      "name": "Startup Valuation & Financial Modeling",
+      "description": "AI-powered tools for startup valuation, financial forecasting, cap table management, and fundraising analytics.",
+      "icon": "💰",
+      "tags": ["valuation", "financial", "startup", "forecasting"]
+    },
+    {
+      "id": "data-analytics-bi",
+      "name": "Data Analytics & Business Intelligence",
+      "description": "AI-enhanced platforms for data analysis, visualization, and business intelligence that enable natural language queries and automated insights.",
+      "icon": "📊",
+      "tags": ["analytics", "data", "bi", "visualization"]
+    },
+    {
+      "id": "code-development-devops",
+      "name": "Code Development & DevOps",
+      "description": "AI coding assistants, code completion tools, and development platforms that accelerate software development and improve code quality.",
+      "icon": "💻",
+      "tags": ["coding", "development", "devops", "programming"]
+    },
+    {
+      "id": "agentic-ai-development",
+      "name": "Agentic AI Development & Frameworks",
+      "description": "Foundational frameworks and platforms for building sophisticated AI agents, from open-source libraries to no-code agent builders.",
+      "icon": "🏗️",
+      "tags": ["framework", "development", "agents", "sdk"]
+    },
+    {
+      "id": "agentic-ai-observability",
+      "name": "Agentic AI Observability & Monitoring",
+      "description": "Tools for tracking, monitoring, and debugging AI agent behavior, performance, and cost to ensure reliable autonomous operations.",
+      "icon": "📈",
+      "tags": ["observability", "monitoring", "tracing", "debugging"]
+    },
+    {
+      "id": "agentic-ai-deployment",
+      "name": "Agentic AI Deployment & Orchestration",
+      "description": "Infrastructure platforms for deploying and orchestrating multiple AI agents to work together in complex workflows.",
+      "icon": "⚙️",
+      "tags": ["deployment", "orchestration", "infrastructure", "multi-agent"]
+    },
+    {
+      "id": "agentic-ai-marketing",
+      "name": "Agentic AI Marketing & Go-to-Market",
+      "description": "AI-powered tools for automating and optimizing marketing campaigns, personalizing customer experiences, and accelerating growth.",
+      "icon": "📢",
+      "tags": ["marketing", "gtm", "growth", "automation"]
+    },
+    {
+      "id": "competitive-intelligence",
+      "name": "Competitive Intelligence & Reverse Engineering",
+      "description": "AI platforms for automating competitive analysis, monitoring market trends, and reverse engineering competitor strategies.",
+      "icon": "🕵️",
+      "tags": ["competitive-intelligence", "market-research", "analysis", "tracking"]
+    },
+    {
+      "id": "image-generation-editing",
+      "name": "Image Generation & Editing",
+      "description": "AI tools for creating, editing, and enhancing images from text descriptions or existing images.",
+      "icon": "🎨",
+      "tags": ["image", "generation", "editing", "art"]
+    },
+    {
+      "id": "video-generation-editing",
+      "name": "Video Generation & Editing",
+      "description": "AI platforms for generating and editing videos, including text-to-video, avatar creation, and automated video editing.",
+      "icon": "🎥",
+      "tags": ["video", "generation", "editing", "production"]
+    },
+    {
+      "id": "audio-music-generation",
+      "name": "Audio & Music Generation",
+      "description": "AI tools for generating music, creating voiceovers, cloning voices, and producing audio content.",
+      "icon": "🎵",
+      "tags": ["audio", "music", "voice", "tts"]
+    },
+    {
+      "id": "research-knowledge-management",
+      "name": "Research & Knowledge Management",
+      "description": "AI-powered research assistants and knowledge management systems for academic research, document analysis, and information organization.",
+      "icon": "🔬",
+      "tags": ["research", "knowledge", "academic", "documents"]
+    },
+    {
+      "id": "education-learning",
+      "name": "Education & Learning",
+      "description": "AI platforms for personalized learning, tutoring, language learning, and educational content creation.",
+      "icon": "🎓",
+      "tags": ["education", "learning", "tutoring", "teaching"]
+    },
+    {
+      "id": "web-development-design",
+      "name": "Web Development & Design",
+      "description": "AI tools for building websites, generating UI components, and designing web interfaces without extensive coding.",
+      "icon": "🌐",
+      "tags": ["web", "design", "ui", "no-code"]
+    },
+    {
+      "id": "marketing-social-media",
+      "name": "Marketing & Social Media",
+      "description": "AI platforms for creating marketing content, managing social media, and automating marketing workflows.",
+      "icon": "📱",
+      "tags": ["marketing", "social-media", "content", "automation"]
+    },
+    {
+      "id": "customer-support-sales",
+      "name": "Customer Support & Sales",
+      "description": "AI-powered customer service platforms, sales intelligence tools, and conversational AI for customer engagement.",
+      "icon": "🤝",
+      "tags": ["support", "sales", "crm", "customer-service"]
+    },
+    {
+      "id": "seo-content-optimization",
+      "name": "SEO & Content Optimization",
+      "description": "AI tools for optimizing content for search engines, keyword research, and improving content performance.",
+      "icon": "🎯",
+      "tags": ["seo", "optimization", "content", "search"]
+    }
+  ]
+}

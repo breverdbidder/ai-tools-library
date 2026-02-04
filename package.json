@@ -1,0 +1,36 @@
+{
+  "name": "ai-tools-library",
+  "version": "1.0.0",
+  "description": "A curated, structured, and programmatically accessible library of AI tools across 20+ categories",
+  "main": "examples/javascript/search-tools.js",
+  "scripts": {
+    "example": "node examples/javascript/search-tools.js",
+    "validate": "node scripts/validate_data.js",
+    "test": "echo \"No tests specified yet\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YOUR_USERNAME/ai-tools-library.git"
+  },
+  "keywords": [
+    "ai",
+    "tools",
+    "artificial-intelligence",
+    "machine-learning",
+    "agentic-ai",
+    "llm",
+    "agents",
+    "automation",
+    "library",
+    "database"
+  ],
+  "author": "@eilon.grouper & Manus AI",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YOUR_USERNAME/ai-tools-library/issues"
+  },
+  "homepage": "https://github.com/YOUR_USERNAME/ai-tools-library#readme",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
