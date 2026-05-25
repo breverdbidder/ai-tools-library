@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "2.0.0",
-    "last_updated": "2026-02-04",
-    "total_tools": 200,
+    "last_updated": "2026-05-25",
+    "total_tools": 211,
     "categories": 22,
     "curator": "@eilon.grouper & Manus AI",
     "enhanced_by": "BidDeed.AI"
@@ -118,7 +118,7 @@
       "description": "AI tools for creating, editing, and enhancing images from text descriptions or existing images.",
       "icon": "🎨",
       "tags": ["image", "generation", "editing", "art"],
-      "tool_count": 11
+      "tool_count": 12
     },
     {
       "id": "video-generation-editing",
@@ -1657,6 +1657,18 @@
       "rating": 4,
       "tags": ["mixing", "creative", "collaborative"],
       "last_updated": "2026-02-04"
+    },
+    {
+      "id": "landscapioai",
+      "name": "LandscapioAI",
+      "url": "https://www.landscapioai.com/",
+      "description": "AI landscape design generator with before/after visualizations, cost estimates, planting guides, and contractor-ready plans",
+      "category": "image-generation-editing",
+      "hebrew_support": false,
+      "price": "Free to start",
+      "rating": 5,
+      "tags": ["landscape-design", "image-generation", "cost-estimates", "outdoor-planning"],
+      "last_updated": "2026-05-25"
     },
     {
       "id": "runway-gen3",
