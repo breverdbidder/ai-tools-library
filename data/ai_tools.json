@@ -1,8 +1,8 @@
 {
   "metadata": {
     "version": "2.0.0",
-    "last_updated": "2026-02-04",
-    "total_tools": 200,
+    "last_updated": "2026-08-15",
+    "total_tools": 211,
     "categories": 22,
     "curator": "@eilon.grouper & Manus AI",
     "enhanced_by": "BidDeed.AI"
@@ -110,7 +110,7 @@
       "description": "AI platforms for automating competitive analysis, monitoring market trends, and reverse engineering competitor strategies.",
       "icon": "🕵️",
       "tags": ["competitive-intelligence", "market-research", "analysis", "tracking"],
-      "tool_count": 6
+      "tool_count": 7
     },
     {
       "id": "image-generation-editing",
@@ -2713,6 +2713,18 @@
       "rating": 5,
       "tags": ["protocol", "tools", "integration", "anthropic"],
       "last_updated": "2026-02-04"
+    },
+    {
+      "id": "ideahunter-competitive-intelligence",
+      "name": "IdeaHunter",
+      "url": "https://ideahunter.today",
+      "description": "Demand-backed app and micro-SaaS idea research for solo founders",
+      "category": "competitive-intelligence",
+      "hebrew_support": false,
+      "price": "Freemium",
+      "rating": 4,
+      "tags": ["market-research", "startup", "idea-validation", "micro-saas"],
+      "last_updated": "2026-08-15"
     }
   ]
 }
